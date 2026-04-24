@@ -11,7 +11,7 @@ Begin VB.Form Form4
    ScaleWidth      =   10320
    StartUpPosition =   3  'Windows Default
    Begin VB.CheckBox Check1 
-      Caption         =   "Colocar productos"
+      Caption         =   "Colocar empleados"
       Height          =   255
       Left            =   960
       TabIndex        =   26
